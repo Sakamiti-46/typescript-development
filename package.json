@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Sakamiti-46/typescript-development/issues"
   },
-  "homepage": "https://github.com/Sakamiti-46/typescript-development#readme"
+  "homepage": "https://github.com/Sakamiti-46/typescript-development#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
